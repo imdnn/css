@@ -2,7 +2,8 @@
 .modal-open {
     overflow: auto !important;
     width: 630px !important;
-    top: -25% !important;
+    top: 3% !important;
+    max-height: none !important;
 }
 .modal {
     -webkit-overflow-scrolling: touch;
