@@ -1,8 +1,8 @@
 .modal,
 .modal-open {
     overflow: auto !important;
-    width: 630px;
-    top: -25%;
+    width: 630px !important;
+    top: -25% !important;
 }
 .modal {
     position: fixed;
