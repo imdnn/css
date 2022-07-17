@@ -1,0 +1,18 @@
+.modal,
+.modal-open {
+    overflow: auto !important;
+    width: 630px !important;
+    top: 3% !important;
+    max-height: none !important;
+}
+.modal {
+    -webkit-overflow-scrolling: touch;
+}
+
+._22ACja2beI7NYn8WgzGKjX {
+    box-shadow: 0 5px 8px #ff0004 !important;
+}
+
+._3zJmNCw_Bcbj1ZyqKYbIeg {
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%), 0 0 8px rgb(255 0 0) !important;
+}
