@@ -1,6 +1,6 @@
 .modal,
 .modal-open {
-    overflow: hidden;
+    overflow: auto !important;
 }
 .modal {
     position: fixed;
